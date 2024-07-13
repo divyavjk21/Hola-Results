@@ -4,4 +4,4 @@ improving processes like grading and report generation, while also providing tea
 storage, flexible grading options, personalized reporting and evaluation tools are provided in the system. Overall, a student result database management system should be designed to provide a 
 user-friendly experience for teachers and administrators!
 [image](https://github.com/user-attachments/assets/339f0f28-a627-4c87-8a0c-76c02f6a33ae)
-tools: HTML, CSS, PHP, DBMS, XAMPP, VSCODE
+tools: HTML, CSS, PHP, MYSQL, XAMPP, VSCODE
