@@ -1,0 +1,45 @@
+.header{
+    background-color: black!important;
+    line-height: 70px;
+    padding-left: 30px;
+    color: white;
+    font-weight: bold;
+    font-size: larger;
+}
+a,a:hover{
+    text-decoration: none!important ;
+}
+.logout{
+    float: right;
+    padding-right: 30px;
+}
+ul{
+    background-color: black;
+    color:white;
+    width: 200px;
+    height: 100%;
+    position: fixed;
+    padding-top: 5%;
+    text-align: center;
+}
+ul li{
+     list-style:none;
+     padding-bottom: 30px;
+     font-size: 15px;
+}
+ul li a {
+    color: white;
+    font-size: bold!important;
+}
+ul li a:hover{
+
+    text-decoration: none;
+}
+.content{
+    margin-left: 15%;
+    margin-top: 5%;
+}
+.aside{
+    background-color:black;
+    color:white;
+}
